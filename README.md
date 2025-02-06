@@ -1,8 +1,8 @@
 <h1 align="center"> 🖐️ Welcome to my profile!</h1>
 
-<p><img align="center" width="1020px" height="200px" src="https://github.com/user-attachments/assets/b6f43246-1341-450b-8ab8-5aeb709e8b27" /></p>
-
+<!--<p><img align="center" width="1020px" height="200px" src="https://github.com/user-attachments/assets/b6f43246-1341-450b-8ab8-5aeb709e8b27" /></p>
 #
+-->
 
 - 🌱 No momento aprendendo JavaScript e Typescript
 
