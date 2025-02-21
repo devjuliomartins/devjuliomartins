@@ -71,6 +71,14 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
     />
 </div>
+ <img width="8" />
+<img 
+    alt="Golang" 
+    title="Golang"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" 
+/>
 -->
 
 #
