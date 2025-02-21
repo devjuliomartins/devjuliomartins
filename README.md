@@ -30,6 +30,14 @@
 <h3 align="left">My Stack</h3>
 <div align="left">
     <img 
+    alt="Golang" 
+    title="Golang"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" 
+    />
+    <img width="8" />
+    <img 
         alt="HTML"
         title="HTML" 
         width="30px" 
@@ -71,14 +79,7 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
     />
 </div>
- <img width="8" />
-<img 
-    alt="Golang" 
-    title="Golang"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" 
-/>
+
 -->
 
 #
