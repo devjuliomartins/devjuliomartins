@@ -4,7 +4,7 @@
 #
 -->
 
-- 🌱 No momento aprendendo GoLang
+- 🌱 No momento aprendendo Golang
 
 - 🔭 Atualmente sem trabalho/estágio
 
