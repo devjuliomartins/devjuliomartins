@@ -4,7 +4,7 @@
 #
 -->
 
-- 🌱 No momento aprendendo JavaScript e Typescript
+- 🌱 No momento aprendendo GoLang
 
 - 🔭 Atualmente sem trabalho/estágio
 
