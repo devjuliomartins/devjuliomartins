@@ -1,6 +1,6 @@
 # 👨🏻‍💻​ Desenvolvedor Full Stack | Julio Martins
 
-Cursando Bacharelado em Engenharia de Software (5º semestre) na Universidade Severino Sombras.
+Cursando Bacharelado em Engenharia de Software (6º semestre) na Universidade Severino Sombras.
 Sempre em busca de aprimorar minhas habilidades e enfrentar novos desafios no desenvolvimento de software.
 Atualmente, focado em melhorar minha capacidade de raciocínio lógico e resolução de problemas.
 
