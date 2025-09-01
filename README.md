@@ -14,7 +14,7 @@ Atualmente, focado em melhorar minha capacidade de raciocínio lógico e resolu�
 
 ### Aprendizagem 
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,java)](https://skillicons.dev)
 
 </div>
 
